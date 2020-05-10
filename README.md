@@ -1,4 +1,5 @@
-# kryptosphere_dao
+# The first non-profit student DAO across Europe
+
 Discover the @kryptosphere-students Decentralize Autonomous Organization
 https://blockchaineur.github.io/kryptosphere_dao/
 
